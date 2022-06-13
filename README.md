@@ -31,6 +31,8 @@ Password: admin<br>
 <li>Open your web browser and check if you got the website running on your localhost (http://localhost:8080/www/)</li>
 </ol>
 #SCREEN SHOTS
+![99-banner](99-banner.png)
+
 
 
 
