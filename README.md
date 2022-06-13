@@ -1,10 +1,12 @@
-# ONLINE_FOOD_DELIVERY
 # Online-Food-Ordering-Web-App
 Online Food Ordering System Website using basic PHP, SQL, HTML & CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App on your local machine. It has a food ordering module for a customer. It also provides menu, orders and user management module for admin.
 
 Admin Login & Password (You can change this in phpmyadmin):<br/>
 Login: admin <br>
 Password: admin<br>
+
+
+
 # Technologies Used
 <ul>
 <a href="https://www.mysql.com/"><li>MySQL</a></li>
